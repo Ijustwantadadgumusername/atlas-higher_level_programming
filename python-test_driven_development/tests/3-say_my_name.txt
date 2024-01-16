@@ -23,11 +23,6 @@ Usage
 The parameter ```last_name``` is optional. If no last name is provided,
 an empty string is printed instead.
 
-::
-
-    >>> say_my_name("Isaiah")
-    My name is Isaiah
-
 Invalid Names
 =============
 
