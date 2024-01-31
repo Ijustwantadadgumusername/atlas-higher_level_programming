@@ -81,3 +81,4 @@ class Base:
             new_obj = cls(1)
         new_obj.update(**dictionary)
         return new_obj
+    
